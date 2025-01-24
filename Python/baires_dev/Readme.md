@@ -15,3 +15,8 @@ ________________
 - Métodos Heurísticos (não determinísticos);
 - Buscam a melhor solução global;
 
+------------------------
+
+## Python 
+
+
